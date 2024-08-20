@@ -8,3 +8,4 @@ Este repositório contém relatórios a respeito da trilha de conhecimento Data 
     - [Relatorio 07/08](https://github.com/2RP-Squad404/Giovani_Rodrigues/blob/develop/Relatorios/relatorio_07-08.md)
     - [Relatorio 09/08](https://github.com/2RP-Squad404/Giovani_Rodrigues/blob/develop/Relatorios/relatorio_09-08.md)
     - [Relatorio 14/08](https://github.com/2RP-Squad404/Giovani_Rodrigues/blob/develop/Relatorios/relatorio_14-08.md)
+    - [Relatorio 20/08](https://github.com/2RP-Squad404/Giovani_Rodrigues/blob/develop/Relatorios/relatorio_20-08.md)
